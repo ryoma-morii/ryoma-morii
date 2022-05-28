@@ -1,0 +1,29 @@
+html{
+	background:#f5f5f5;
+	font-weight:lighter;
+	font-family:YuMincho,
+	serif;
+	text-align:center;
+	}
+	
+a{
+	color:gray;
+	}
+
+a:visited{
+	color:�テ6e6fa;
+	}
+	
+a:hover{
+	color:black;
+	}
+	
+	
+H1{
+	color:#696969;
+	}
+
+footer{
+	margin-top:70px;
+	font-size:20px;
+}
